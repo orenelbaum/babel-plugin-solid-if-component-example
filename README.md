@@ -1,3 +1,4 @@
-# vitejs-vite-cutspc
+# babel-plugin-solid-if-component-example
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-cutspc)
+
+[Open in StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-cutspc)
